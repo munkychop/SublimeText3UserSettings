@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3_Syntax",
+		"EditorConfig",
+		"Emmet",
+		"Handlebars",
+		"Jade",
+		"jQuery",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
+	]
+}
