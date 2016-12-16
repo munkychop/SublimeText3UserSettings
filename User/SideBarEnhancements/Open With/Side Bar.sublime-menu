@@ -22,14 +22,14 @@
 
 			//application 2
 			{
-				"caption": "SeaMonkey",
-				"id": "side-bar-files-open-with-seamonkey",
+				"caption": "iA Writer",
+				"id": "side-bar-files-open-with-ia-writer",
 
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "C:\\Archivos de programa\\SeaMonkey\\seamonkey.exe", // WINNT
-									"extensions":"" //open all even folders
+									"application": "iA Writer.app",
+									"extensions":"md|txt"
 								},
 				"open_automatically" : false // will close the view/tab and launch the application
 			},
