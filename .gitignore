@@ -13,9 +13,10 @@ Desktop.ini
 #---------------------------------------
 # Auto-changing Package Control files
 #---------------------------------------
-Package Control.last-run
+User/Package Control.last-run
 Package Control.merged-ca-bundle
 Package Control.system-ca-bundle
 Package Control.user-ca-bundle
 Package Control.cache
+oscrypto-ca-bundle.crt
 Color Highlighter
