@@ -11,7 +11,7 @@
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "Adobe Photoshop CS5.app", // OSX
+									"application": "Adobe Photoshop CC 2017.app", // OSX
 									"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
 								},
 				"open_automatically" : false // will close the view/tab and launch the application
@@ -28,7 +28,7 @@
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "iA Writer.app",
+									"application": "iA Writer Classic.app",
 									"extensions":"md|txt"
 								},
 				"open_automatically" : false // will close the view/tab and launch the application
@@ -41,7 +41,7 @@
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "C:\\Documents and Settings\\tito\\local\\Datos de programa\\Google\\Chrome\\Application\\chrome.exe",
+									"application": "Google Chrome.app",
 									"extensions":".*" //any file with extension
 						},
 				"open_automatically" : false // will close the view/tab and launch the application
