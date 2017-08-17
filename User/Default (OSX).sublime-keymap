@@ -5,5 +5,19 @@
         "args": {
             "contents": "console.log(${1:}$SELECTION);${0}"
         }
+    },
+    {
+        "keys": ["super+leftshift+,"],
+        "command": "insert_snippet",
+        "args": {
+            "contents": "<${1:}$SELECTION>${0}"
+        }
+    },
+    {
+        "keys": ["super+leftshift+."],
+        "command": "insert_snippet",
+        "args": {
+            "contents": "</${1:}$SELECTION>${0}"
+        }
     }
 ]
