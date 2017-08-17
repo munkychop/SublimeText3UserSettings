@@ -21,6 +21,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-jshint"
+		"SublimeLinter-jshint",
+		"Syntax Highlighting for Sass"
 	]
 }
