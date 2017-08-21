@@ -16,11 +16,13 @@
 		"JSX",
 		"Package Control",
 		"PackageResourceViewer",
+		"Pretty JSON",
 		"Pug",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jshint",
 		"Syntax Highlighting for Sass"
 	]
