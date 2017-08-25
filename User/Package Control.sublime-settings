@@ -7,7 +7,7 @@
 	[
 		"Babel",
 		"Better CoffeeScript",
-		"Color Highlighter",
+		"ColorHelper",
 		"ColorPicker",
 		"EditorConfig",
 		"EJS",
